@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Anjan</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhu499&label=Profile%20views&color=0e75b6&style=flat" alt="subhu499" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhu499&label=Profile%20views&color=0e75b6&style=flat" alt="vivek499" /> </p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
                   I am student at MASAI SCHOOL
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/subhu499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="subhu499" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="subhu499" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170" target="blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhu499" height="30" width="40" /></a>
-<a href="https://codesandbox.com/subhu499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="subhu499" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="subhu499" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
