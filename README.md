@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/"</a>
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/"  target="blank" />
 - 🧗 I try to : Go beyond and push the bounds
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
