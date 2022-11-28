@@ -7,7 +7,7 @@
                   I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Visualization.
+- 🌱 I’m currently learning Redx and React.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
