@@ -12,7 +12,7 @@
 - 💬 Ask me about HTML,CSS,JS,React.js,Next.js,Redux
 
 - 📫 How to reach me vivekanjankc12345@gmail.com
-- 📄 <a href="file:///C:/Users/vivek/Downloads/vivek-anjan-resume.d10fb976a5fe9ee5807e.pdf">Resume</a>    
+- 📄 <a href="https://www.canva.com/design/DAFUAcuenMw/34uxFcbSgndVnhCGoj1mnw/edit?utm_content=DAFUAcuenMw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>    
 - 📄 <a href="https://vivekanjankc12345.github.io/">Portfolio</a> 
 - 📄 <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/">LinkedIn</a> 
 
