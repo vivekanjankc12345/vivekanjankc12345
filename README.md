@@ -36,4 +36,4 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+“The greatest pleasure of life is love.” — Euripides
