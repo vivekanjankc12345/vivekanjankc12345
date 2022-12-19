@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://vivekanjankc12345.github.io)
+[![MasterHead](http://www.pixelstalk.net/wp-content/uploads/2016/07/Computer-Science-Pictures-HD.jpg)](https://vivekanjankc12345.github.io)
 <h1 align="center">Hi 👋, I am Vivek Anjan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
