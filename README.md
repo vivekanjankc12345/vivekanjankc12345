@@ -1,5 +1,5 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://omesh96.github.io)
-<h1 align="center">Hi 👋, I'm Omesh Dubey</h1>
+[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://vivekanjankc12345.github.io)
+<h1 align="center">Hi 👋, I am Vivek Anjan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
@@ -7,13 +7,13 @@
 # 💫 About Me:
 - 🌱 I’m currently learning Frontend Technology
 
-- 👨‍💻 All of my projects are available at [https://omesh96.github.io/](https://omesh96.github.io/)
+- 👨‍💻 All of my projects are available at [https://vivekanjankc12345.github.io/](https://vivekanjankc12345.github.io/)
 
 - 💬 Ask me about HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript
 
-- 📫 How to reach me omeshdubey80@gmail.com
-- 📄 <a href="https://omesh96.github.io/assests/Omesh_Dubey_Resume.pdf">Resume</a>    
-- 📄 <a href="https://omesh96.github.io/">Portfolio</a> 
+- 📫 How to reach me vivekanjankc12345@gmail.com
+- 📄 <a href="https://vivekanjankc12345.github.io/assests/Vivek_Anjan_Resume.pdf">Resume</a>    
+- 📄 <a href="https://vivekanjankc12345.github.io/">Portfolio</a> 
 - 📄 <a href="https://www.linkedin.com/in/omesh-dubey-1456a0253/">LinkedIn</a> 
 
 
@@ -23,16 +23,16 @@
 
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omesh96&show_icons=true&locale=en&layout=compact" alt="omesh" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekanjankc12345&show_icons=true&locale=en&layout=compact" alt="vivekanjankc12345" /></p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omesh96&show_icons=true&locale=en" alt="omesh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekanjankc12345&show_icons=true&locale=en" alt="vivekanjankc12345" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omesh96&" alt="omesh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekanjankc12345&" alt="vivekanjankc12345" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omesh96" alt="Trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekanjankc12345" alt="Trophy" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
