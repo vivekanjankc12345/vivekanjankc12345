@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Vivek Anjan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
+<img width="400" align="right" src="https://tse4.mm.bing.net/th?id=OIP.wSVcU_BayQoalkjl44g4YAHaE1&pid=Api&P=0" alt="animated"/>
 
 # 💫 About Me:
 - 🌱 I’m currently learning Frontend Technology
