@@ -9,12 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://vivekanjankc12345.github.io/](https://vivekanjankc12345.github.io/)
 
-- 💬 Ask me about HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript
+- 💬 Ask me about HTML,CSS,JS,React.js,Next.js,Redux
 
 - 📫 How to reach me vivekanjankc12345@gmail.com
 - 📄 <a href="https://vivekanjankc12345.github.io/assests/Vivek_Anjan_Resume.pdf">Resume</a>    
 - 📄 <a href="https://vivekanjankc12345.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/omesh-dubey-1456a0253/">LinkedIn</a> 
+- 📄 <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/">LinkedIn</a> 
 
 
 <h2 align="left">Languages and Tools</h2>
