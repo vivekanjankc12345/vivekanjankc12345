@@ -1,39 +1,96 @@
 [![MasterHead](https://previews.123rf.com/images/spaintervfx/spaintervfx2112/spaintervfx211200009/178651505-circuit-board-futuristic-server-code-processing-orange-green-blue-technology-background-with-bokeh-3.jpg)](https://vivekanjankc12345.github.io)
-<h1 align="center">Hi 👋, I am Vivek Anjan</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+
+<h1 align="center">Hi 👋, I'm Vivek Anjan</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Passionate about building scalable web apps</h3>
 
 <img width="400" align="right" src="https://tse4.mm.bing.net/th?id=OIP.wSVcU_BayQoalkjl44g4YAHaE1&pid=Api&P=0" alt="animated"/>
 
-# 💫 About Me:
-- 🌱 I’m currently learning Frontend Technology
+---
 
-- 👨‍💻 All of my projects are available at [https://vivekanjankc12345.github.io/](https://vivekanjankc12345.github.io/)
+## 💫 About Me:
+- 🚀 Full Stack Developer with **2+ years of experience** in designing, developing, and maintaining scalable web applications.  
+- 🌱 Currently enhancing my skills in **Next.js, Redux Toolkit, and performance optimization**.  
+- 💻 Passionate about crafting **user-friendly and efficient web solutions** using modern technologies.  
+- 👨‍💻 Check out my work here: [**Portfolio**](https://vivekanjankc12345.github.io/)  
+- 💬 Ask me about **React, Next.js, Node.js, Express, Redux Toolkit, Tailwind CSS, PostgreSQL, MongoDB**  
+- 📫 Reach me at **vivekanjankc12345@gmail.com**  
+- 📄 [**Resume**](https://drive.google.com/file/d/1Rdb1pdYb8j43gJ5LlI0ETvRKKxMIs1VB/view?usp=share_link) | [**LinkedIn**](https://www.linkedin.com/in/vivek-anjan-1b625a170/)
 
-- 💬 Ask me about HTML,CSS,JS,React.js,Next.js,Redux
+---
 
-- 📫 How to reach me vivekanjankc12345@gmail.com
-- 📄 <a href="https://drive.google.com/file/d/1Rdb1pdYb8j43gJ5LlI0ETvRKKxMIs1VB/view?usp=share_link">Resume</a>    
-- 📄 <a href="https://vivekanjankc12345.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/">LinkedIn</a> 
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+</p>
 
-<h2 align="left">Languages and Tools</h2>
+---
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💼 Professional Experience
 
-# 📊 GitHub Stats
-<!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekanjankc12345&show_icons=true&locale=en&layout=compact" alt="vivekanjankc12345" /></p>
+### **Software Engineer - Full Stack @ BrainerHub Solutions** *(Aug 2023 – Present)*
+- **Salus Stila** – Construction services platform  
+  - Built responsive UI with **React, Redux Toolkit, Chakra UI**.  
+  - Developed secure backend APIs using **Node.js, Express**, and **MongoDB**.  
+  - Implemented features like **project planning, task assignment, and team collaboration**.
 
+- **Employee Management System**  
+  - Designed features for **attendance tracking, role-based access**, and reporting.  
+  - Seamless data flow between **front-end and back-end** using Redux and REST APIs.
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekanjankc12345&show_icons=true&locale=en" alt="vivekanjankc12345" /></p>
+- **BlueBox (Parcel Delivery App)**  
+  - Integrated **OTP verification** (Twilio) and **payment gateway** (Stripe).  
+  - Optimized parcel and user data management using **MongoDB**.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekanjankc12345&" alt="vivekanjankc12345" /></p>
+### **Full Stack Web Developer Intern @ Masai School** *(Apr 2022 – Jul 2023)*
+- Built **e-commerce and CRM applications** with React.js, Redux, Node.js, and MongoDB.  
+- Developed **dynamic UI components** and implemented **CRUD operations**.  
+- Hands-on experience in **team collaboration**, code reviews, and project delivery under tight deadlines.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekanjankc12345&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekanjankc12345&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekanjankc12345" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekanjankc12345" alt="Trophy" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekanjankc12345" alt="Trophies" />
+</p>
 
+---
 
-### ✍️ Random Dev Quote
-“The greatest pleasure of life is love.” — Euripides
+## ✍️ Random Dev Quote
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-anjan-1b625a170/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:vivekanjankc12345@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://vivekanjankc12345.github.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+</p>
