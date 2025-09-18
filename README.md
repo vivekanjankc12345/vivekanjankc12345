@@ -11,7 +11,7 @@
 - 🚀 Full Stack Developer with **2+ years of experience** in designing, developing, and maintaining scalable web applications.  
 - 🌱 Currently enhancing my skills in **Next.js, Redux Toolkit, and performance optimization**.  
 - 💻 Passionate about crafting **user-friendly and efficient web solutions** using modern technologies.  
-- 👨‍💻 Check out my work here: [**Portfolio**](https://vivekanjankc12345.github.io/)  
+- 👨‍💻 Check out my work here: [**Portfolio**](https://vivek-anjan-portfolio-bzwh.vercel.app/)  
 - 💬 Ask me about **React, Next.js, Node.js, Express, Redux Toolkit, Tailwind CSS, PostgreSQL, MongoDB**  
 - 📫 Reach me at **vivekanjankc12345@gmail.com**  
 - 📄 [**Resume**](https://drive.google.com/file/d/1Rdb1pdYb8j43gJ5LlI0ETvRKKxMIs1VB/view?usp=share_link) | [**LinkedIn**](https://www.linkedin.com/in/vivek-anjan-1b625a170/)
