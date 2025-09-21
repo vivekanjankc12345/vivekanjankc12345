@@ -14,7 +14,7 @@
 - 👨‍💻 Check out my work here: [**Portfolio**](https://vivek-anjan-portfolio-bzwh.vercel.app/)  
 - 💬 Ask me about **React, Next.js, Node.js, Express, Redux Toolkit, Tailwind CSS, PostgreSQL, MongoDB**  
 - 📫 Reach me at **vivekanjankc12345@gmail.com**  
-- 📄 [**Resume**](https://drive.google.com/file/d/1Rdb1pdYb8j43gJ5LlI0ETvRKKxMIs1VB/view?usp=share_link) | [**LinkedIn**](https://www.linkedin.com/in/vivek-anjan-1b625a170/)
+- 📄 [**Resume**](https://drive.google.com/file/d/1CyRuQdidN7BfpJdrOjFp1PuSo3cB06Lf/view?usp=sharing) | [**LinkedIn**](https://www.linkedin.com/in/vivek-anjan-1b625a170/)
 
 ---
 
